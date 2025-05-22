@@ -3,13 +3,13 @@ displayName: Experiment Library
 description: >-
   A library to easily build experiment applications, and manage the inputs and
   outputs files in a standardized and clever way
-repoUrl: 'https://github.com/Eyap53/unity-experiment-library'
+repoUrl: 'https://github.com/maellacour/unity-experiment-library'
 parentRepoUrl: null
 licenseSpdxId: MPL-2.0
 licenseName: Mozilla Public License 2.0
 topics:
   - data-management
-hunter: Eyap53
+hunter: maellacour
 gitTagPrefix: ''
 gitTagIgnore: ''
 minVersion: ''
